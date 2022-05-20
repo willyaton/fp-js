@@ -1,0 +1,21 @@
+{
+  "name": "fp-js",
+  "version": "0.0.3",
+  "description": "Cheatsheet for Functional Programming in JavaScript",
+  "scripts": {
+    "test": "jest -u",
+    "test:watch": "npm test -- --watch"
+  },
+  "private": true,
+  "keywords": [
+    "Functional Programming",
+    "JavaScript",
+    "FP"
+  ],
+  "author": "Willy Mena <willymena@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "nodemon": "^1.18.3"
+  }
+}
